@@ -5,7 +5,7 @@ Github-BackEnd-Sorce code link:
 https://github.com/HaridassMurugan/webScrapping-Ecommerce-BackEnd
 
 Netlify-Output link: 
-
+https://webscrapping01.netlify.app/
 
 Render-Output link: 
 https://web-scrapping-hd63.onrender.com
